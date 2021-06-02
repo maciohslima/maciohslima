@@ -21,6 +21,3 @@
  * Phyton (Básico)
 
 ## Objetivos
- * Campo para colocar os objetivos de trabalho e aprendizagem
- * Tentando subir alterações
- * Tentando mais uma vez
