@@ -34,5 +34,5 @@
 ---
 
 | Status do Perfil | Linguagens mais praticadas |
-|----------------- | -------------------------- |
+| :--------------: | :------------------------: |
 | ![Meu Status](https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dracula) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&theme=dracula) |
