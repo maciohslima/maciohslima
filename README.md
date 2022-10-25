@@ -2,7 +2,7 @@
 
 ## Minhas Redes Sociais
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Macio%20Lima&style=social&url=https%3A%2F%2Ftwitter.com%2Fmachelton)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Macio%20Lima&style=social&url=https%3A%2F%2Ftwitter.com%2Fmachelton)](https://twitter.com/machelton)
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) -->
 
