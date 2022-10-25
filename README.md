@@ -1,5 +1,9 @@
 # Mácio Lima
 
+## Minhas Redes Sociais
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
 <!-- <img align="right" valign="bottom" height="50" src="https://media3.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif"/>
 <img align="right" valign="bottom" height="50" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"/> -->
 
