@@ -30,7 +30,7 @@
 
 - Aprimorar conhecimentos em várias áreas de tecnologia para me tornar um profissional mais completo possível e assim conquistar cada vez mais reconhecimento na área que escolhi para ser o grande norte de minha vida.
 
-## My status
+---
 
 | Status do Perfil | Linguagens mais praticadas |
 |----------------- | -------------------------- |
