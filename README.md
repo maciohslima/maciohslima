@@ -2,10 +2,10 @@
 
 ## Minhas Redes Sociais
 
+[![Linkedin](https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=000000)](https://www.linkedin.com/in/m%C3%A1cio-helton-silveira-de-lima-64193026/)
+[![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=FFFFFF&color=000000)](https://instagram.com/maciohelton)
 [![Twitter URL](https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=1877F2&labelColor=FFFFFF&color=000000)](https://twitter.com/machelton) 
 [![Facebook](https://img.shields.io/badge/facebook-100000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=FFFFFF&color=000000)](https://facebook.com/maciohelton)
-[![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=FFFFFF&color=000000)](https://instagram.com/maciohelton)
-[![Linkedin](https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=000000)](https://www.linkedin.com/in/m%C3%A1cio-helton-silveira-de-lima-64193026/)
 
 ## Formação Acadêmica
 
