@@ -14,8 +14,8 @@
 
 ## Certificações
 
-- ITIL Foundation V3
-- SCRUM Foundation
+- ![ITIL V3 Foundation](https://img.shields.io/badge/ITIL%20V3-Foudation-yellowgreen)
+- ![SCRUM Foundation](https://img.shields.io/badge/SCRUM-Foudation-blue)
 
 ## Cursos
 
