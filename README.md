@@ -55,11 +55,46 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas & Atividades GitHub
 
-| Atividades | Linguagens Principais |
-|:-----------:|:---------------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dracula&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dracula&hide_border=true) |
+### 📈 Visão Geral de Atividade
+
+<table>
+  <tr>
+    <td>
+      <strong>Estatísticas Gerais</strong><br><br>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <strong>Linguagens Mais Usadas</strong><br><br>
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dracula&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Streak de Contribuições
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maciohslima&theme=dracula&hide_border=true)
+
+</div>
+
+### 📅 Atividade Semanal
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maciohslima&theme=dracula&hide_border=true)
+
+</div>
+
+### 📊 Distribuição de Repositórios
+
+<div align="center">
+
+![Repos by Language](https://github-readme-stats.vercel.app/api/wakatime?username=maciohslima&theme=dracula&hide_border=true)
+
+</div>
 
 ---
 
@@ -76,10 +111,19 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ## 📌 Meus Repositórios Principais
 
-- **[Crono_Festival](https://github.com/maciohslima/Crono_Festival)** - Cronômetro web para eventos
-- **[linktree](https://github.com/maciohslima/linktree)** - Agregador de links sociais
-- **[WebDeveloper](https://github.com/maciohslima/WebDeveloper)** - Projetos de desenvolvimento web
-- **[Python_Cursos](https://github.com/maciohslima/Python_Cursos)** - Cursos e projetos Python
+### ⭐ Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[Crono_Festival](https://github.com/maciohslima/Crono_Festival)** | 🎉 Cronômetro web para eventos de Festival de Quadrilhas Juninas | `JavaScript` `HTML` `CSS` |
+| **[linktree](https://github.com/maciohslima/linktree)** | 🔗 Agregador de links sociais e redes profissionais | `HTML` `CSS` |
+
+### 📚 Aprendizado & Desenvolvimento
+
+| Projeto | Descrição | Linguagem |
+|---------|-----------|-----------|
+| **[WebDeveloper](https://github.com/maciohslima/WebDeveloper)** | 💻 Projetos de desenvolvimento web e estudos | `HTML` `CSS` `JavaScript` |
+| **[Python_Cursos](https://github.com/maciohslima/Python_Cursos)** | 🐍 Consolidação de cursos e projetos Python | `Python` |
 
 ---
 
@@ -93,6 +137,18 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
+## 📊 Resumo de Contribuições
+
+<div align="center">
+
+### Badges de Habilidades
+
+![Profile views](https://komarev.com/ghpvc/?username=maciohslima&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
 ## 📝 Licença
 
 Este perfil é de código aberto. Sinta-se livre para explorar, aprender e colaborar!
@@ -102,5 +158,7 @@ Este perfil é de código aberto. Sinta-se livre para explorar, aprender e colab
 <div align="center">
 
 **Feito com ❤️ por [Mácio Lima](https://github.com/maciohslima)**
+
+![Last Updated](https://img.shields.io/date/1719667922000?label=Última%20atualização&style=flat-square)
 
 </div>
