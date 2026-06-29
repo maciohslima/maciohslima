@@ -65,11 +65,11 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
-## 📅 Atividade Semanal
+## 📊 Estatísticas de Linguagens
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maciohslima&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
