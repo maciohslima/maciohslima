@@ -55,21 +55,26 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
-## 🔥 Streak de Contribuições
+## 🔥 Contribuições & Atividades
 
 <div align="center">
 
+### Streak de Contribuições
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maciohslima&theme=dracula&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 Estatísticas de Linguagens
+## 📊 Experiência Técnica
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dracula&hide_border=true)
+### Linguagens Mais Praticadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=pie&theme=dracula&hide_border=true&card_width=400)
+
+### Estatísticas Gerais do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dracula&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered)
 
 </div>
 
@@ -88,41 +93,37 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ## 📌 Meus Repositórios Principais
 
-### ⭐ Destaque
+### ⭐ Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[Crono_Festival](https://github.com/maciohslima/Crono_Festival)** | 🎉 Cronômetro web para eventos de Festival de Quadrilhas Juninas | `JavaScript` `HTML` `CSS` |
-| **[linktree](https://github.com/maciohslima/linktree)** | 🔗 Agregador de links sociais e redes profissionais | `HTML` `CSS` |
+| Projeto | Descrição | Tecnologias | Status |
+|---------|-----------|-------------|--------|
+| **[Crono_Festival](https://github.com/maciohslima/Crono_Festival)** | 🎉 Cronômetro web para eventos de Festival de Quadrilhas Juninas | `JavaScript` `HTML` `CSS` | ✅ Produção |
+| **[linktree](https://github.com/maciohslima/linktree)** | 🔗 Agregador de links sociais e redes profissionais | `HTML` `CSS` | ✅ Ativo |
 
-### 📚 Aprendizado & Desenvolvimento
+### 📚 Repositórios de Aprendizado
 
-| Projeto | Descrição | Linguagem |
-|---------|-----------|-----------|
-| **[WebDeveloper](https://github.com/maciohslima/WebDeveloper)** | 💻 Projetos de desenvolvimento web e estudos | `HTML` `CSS` `JavaScript` |
-| **[Python_Cursos](https://github.com/maciohslima/Python_Cursos)** | 🐍 Consolidação de cursos e projetos Python | `Python` |
+| Projeto | Descrição | Linguagem | Progresso |
+|---------|-----------|-----------|-----------|
+| **[WebDeveloper](https://github.com/maciohslima/WebDeveloper)** | 💻 Projetos de desenvolvimento web e estudos | `HTML` `CSS` `JavaScript` | 📈 Em curso |
+| **[Python_Cursos](https://github.com/maciohslima/Python_Cursos)** | 🐍 Consolidação de cursos e projetos Python | `Python` | 📈 Em curso |
 
 ---
 
 ## 🎯 Meus Objetivos
 
 - ✅ Aprimorar conhecimentos em várias áreas de tecnologia
-- ✅ Tornar-me um profissional mais completo
+- ✅ Tornar-me um profissional mais completo e versátil
 - ✅ Contribuir em projetos open source
 - ✅ Conquistar reconhecimento na comunidade tech
 - ✅ Criar soluções inovadoras e impactantes
 
 ---
 
-## 📊 Resumo de Contribuições
+## 💼 Disponibilidade
 
-<div align="center">
-
-### Badges de Habilidades
-
-![Profile views](https://komarev.com/ghpvc/?username=maciohslima&color=blueviolet&style=flat-square)
-
-</div>
+- 🔍 **Status**: Aberto a oportunidades
+- 📧 **Contato**: [LinkedIn](https://www.linkedin.com/in/m%C3%A1cio-helton-silveira-de-lima-64193026/)
+- 🌟 **Interesse**: Web Development, Full Stack, Projetos Open Source
 
 ---
 
@@ -135,6 +136,8 @@ Este perfil é de código aberto. Sinta-se livre para explorar, aprender e colab
 <div align="center">
 
 **Feito com ❤️ por [Mácio Lima](https://github.com/maciohslima)**
+
+![Profile views](https://komarev.com/ghpvc/?username=maciohslima&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
 
 ![Last Updated](https://img.shields.io/date/1719667922000?label=Última%20atualização&style=flat-square)
 
