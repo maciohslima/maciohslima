@@ -71,16 +71,6 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
-## 📊 Experiência Técnica
-
-## Linguagens Mais Praticadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dark)
-
-## Estatísticas Gerais do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dark)
-
----
-
 ## 🌐 Redes Sociais & Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1cio-helton-silveira-de-lima-64193026/)
