@@ -55,24 +55,7 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
-## 📊 Estatísticas & Atividades GitHub
-
-### 📈 Visão Geral de Atividade
-
-<table>
-  <tr>
-    <td>
-      <strong>Estatísticas Gerais</strong><br><br>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <strong>Linguagens Mais Usadas</strong><br><br>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dracula&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-### 🔥 Streak de Contribuições
+## 🔥 Streak de Contribuições
 
 <div align="center">
 
@@ -80,19 +63,13 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 </div>
 
-### 📅 Atividade Semanal
+---
+
+## 📅 Atividade Semanal
 
 <div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maciohslima&theme=dracula&hide_border=true)
-
-</div>
-
-### 📊 Distribuição de Repositórios
-
-<div align="center">
-
-![Repos by Language](https://github-readme-stats.vercel.app/api/wakatime?username=maciohslima&theme=dracula&hide_border=true)
 
 </div>
 
