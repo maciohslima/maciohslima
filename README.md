@@ -14,8 +14,12 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ## 🎓 Formação Acadêmica
 
-- **Ensino Superior** - Ciências da Computação (8º Período)
-  - Faculdade Pernambucana
+### Ensino Superior
+
+| Curso | Instituição | Status | Período |
+|-------|-------------|--------|---------|
+| **Ciências da Computação** | Faculdade Pernambucana | 🔄 Em Progresso (8º período) | - |
+| **Tecnólogo de Redes de Computadores** | Estácio | 🔄 Em Progresso | Julho/2026 - Atual |
 
 ---
 
