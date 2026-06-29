@@ -18,7 +18,7 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 **Ciências da Computação**
 - 🏫 Faculdade Pernambucana
-- 📊 Status: 🔄 Em Progresso (8º período)
+- 📊 Status: ❌ Incompleto (8º período)
 
 **Tecnólogo de Redes de Computadores**
 - 🏫 Estácio
