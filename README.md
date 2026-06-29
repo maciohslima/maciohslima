@@ -124,6 +124,37 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ---
 
+## 💼 Experiência Profissional
+
+### 🏢 Stefanini Brasil
+- 🔧 **Cargo:** Técnico de Suporte em TI (Tempo integral)
+- 📅 **Período:** Janeiro de 2018 - Atual
+- 📍 **Localidade:** Recife e Região
+- 📝 **Atividades:** Verificar rotinas de jornal e servidores, prestar suporte aos computadores dos usuários e monitorar conexões de rede do prédio.
+
+### 🏢 Algar Tech
+- 🔧 **Cargo:** Técnico de Suporte Pleno (Tempo integral)
+- 📅 **Período:** Janeiro de 2017 - Dezembro de 2017
+- 📍 **Localidade:** Olinda - PE
+
+### 🏢 Allen | Soluções em Tecnologia
+- 🔧 **Cargo:** Técnico de Suporte Nv. 2 (Tempo integral)
+- 📅 **Período:** Julho de 2011 - Dezembro de 2017
+- 📍 **Localidade:** Olinda - PE (No local)
+- 📝 **Atividades:** Gerenciamento de incidentes e correção de problemas, além de contato aprofundado com ferramentas de servidores Microsoft (SCCM, SCSM, MySQL, etc).
+
+### 🏢 Capital Login
+- 🔧 **Cargo:** Suporte Técnico (Estágio)
+- 📅 **Período:** Janeiro de 2011 - Julho de 2011
+- 📍 **Localidade:** Olinda - PE
+
+### 🏢 RM Telecom
+- 🔧 **Cargo:** Analista de Sistemas
+- 📅 **Período:** Março de 2010 - Outubro de 2010
+- 📍 **Localidade:** Olinda - PE
+- 📝 **Atividades:** Gerenciamento de equipamentos de informática e especialização em ferramentas Office (Excel e Access).
+
+---
 ## 🎯 Meus Objetivos
 
 - ✅ Aprimorar conhecimentos em várias áreas de tecnologia
