@@ -73,11 +73,11 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 
 ## 📊 Experiência Técnica
 
-### Linguagens Mais Praticadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dracula&hide_border=true)
+## Linguagens Mais Praticadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciohslima&layout=compact&theme=dark)
 
-### Estatísticas Gerais do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dracula&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered&hide=stars)
+## Estatísticas Gerais do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciohslima&show_icons=true&theme=dark)
 
 ---
 
