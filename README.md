@@ -18,10 +18,6 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 *   **Ciências da Computação**
     *   🏫 Faculdade Pernambucana
     *   📊 Status: ❌ Incompleto (8º período)
-*   **Tecnólogo de Redes de Computadores**
-    *   🏫 Estácio
-    *   📅 Período: Julho/2026 - Atual
-    *   📊 Status: 🔄 Em Progresso
 
 ---
 
@@ -39,12 +35,15 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 *   🔹 **Fundamentos da Inteligência Artificial Generativa** – LinkedIn (Jan/2026)
 *   🔹 **Fundamentos de Kubernetes** – LinkedIn (Jun/2026)
 *   🔹 **Introdução à Programação com Python** – Stefanini Group (Ago/2022)
+*   🔹 **Formação n8n 2026: Automação e Criação de Agentes de IA** – Udemy (Jul/2026) | [Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3b1556f1-0223-4d10-801c-694f4d6d2165.pdf)
 
 ### 🔒 Segurança & Infraestrutura
 *   🔹 **Phishing** – Workover Academy (Jun/2024)
     *   *Credencial:* `afe832f0669f90a09d77b9190909d150`
 *   🔹 **70-480: Instalando e Configurando o Windows Server 2008**
 *   🔹 **SQL Server: Basics**
+*   🔹 **Certificação Amazon AWS Cloud Practitioner (CLF-C01)** – Udemy (Jul/2024) | [Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-19ccbfe2-38ef-4b79-ad48-1f7af3ae1a22.pdf)
+*   🔹 Certificação Microsoft AZ-900 Azure Fundamentals – Udemy (Out/2025) | [Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3427950a-e287-4114-9bc5-37670a1c9c7e.pdf)
 
 ### 🧠 Soft Skills & Gestão
 *   🔹 **Pensamento Crítico** – LinkedIn (Jun/2026)
