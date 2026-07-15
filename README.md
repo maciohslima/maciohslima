@@ -43,7 +43,7 @@ Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º pe
 *   🔹 **70-480: Instalando e Configurando o Windows Server 2008**
 *   🔹 **SQL Server: Basics**
 *   🔹 **Certificação Amazon AWS Cloud Practitioner (CLF-C01)** – Udemy (Jul/2024) | [Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-19ccbfe2-38ef-4b79-ad48-1f7af3ae1a22.pdf)
-*   🔹 Certificação Microsoft AZ-900 Azure Fundamentals – Udemy (Out/2025) | [Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3427950a-e287-4114-9bc5-37670a1c9c7e.pdf)
+*   🔹 **Certificação Microsoft AZ-900 Azure Fundamentals** – Udemy (Out/2025) | [Ver Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3427950a-e287-4114-9bc5-37670a1c9c7e.pdf)
 
 ### 🧠 Soft Skills & Gestão
 *   🔹 **Pensamento Crítico** – LinkedIn (Jun/2026)
