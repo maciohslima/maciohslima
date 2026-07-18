@@ -6,9 +6,15 @@ Olá! Sou **Mácio Helton Silveira de Lima**, desenvolvedor apaixonado por tecno
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Ciências da Computação** na Faculdade Pernambucana (8º período) com foco em desenvolvimento web e programação. Estou em constante aprendizado e busco expandir meus conhecimentos em diferentes áreas da tecnologia.
+Sou desenvolvedor e especialista em tecnologia focado em criar soluções eficientes, automatizadas e escaláveis. Minha trajetória combina uma sólida bagagem acadêmica em **Ciência da Computação** pela Faculdade Pernambucana com uma busca constante pelas certificações mais relevantes do mercado de TI.
 
-> 🎯 **Objetivo:** Atuar como Desenvolvedor Júnior ou Estagiário de TI, aplicando minha bagagem técnica em suporte e infraestrutura para criar soluções web eficientes e escaláveis.
+Ao longo da minha jornada, desenvolvi uma forte competência multifuncional que integra três pilares principais:
+
+*   **Cloud & Infraestrutura:** Conhecimentos consolidados nas principais nuvens do mercado (**AWS Certified Cloud Practitioner** e **Microsoft Azure Fundamentals**), além de fundamentos de Windows Server, SQL Server e **Kubernetes**, garantindo uma visão moderna de arquitetura e deploy.
+*   **Automação & IA:** Especialista na criação de fluxos de automação e agentes de Inteligência Artificial utilizando **n8n** (Formação 2026), integrando ferramentas e aplicando conceitos avançados de **IA Generativa** para otimizar processos operacionais.
+*   **Governança & Agilidade:** Certificado em **ITIL V3 Foundation** e **Scrum Foundation Professional (SFPC)**, o que me permite alinhar entregas técnicas às melhores práticas de gestão de serviços de TI e metodologias ágeis.
+
+> 🎯 **Objetivo:** Atuar como Desenvolvedor Júnior, Estagiário de TI ou Analista de Automação/Cloud, aplicando meu conhecimento prático em suporte, infraestrutura, automações com n8n e engenharia de prompts para potencializar resultados de negócios.
 
 ---
 
