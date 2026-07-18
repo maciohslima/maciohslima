@@ -79,9 +79,15 @@ Ao longo da minha jornada, desenvolvi uma forte competência multifuncional que 
 
 ## 💼 Experiência Profissional
 
+### 🏢 Fast Delivery
+- 🔧 **Cargo:** Analista de Suporte I (Híbrido)
+- 📅 **Período:** Julho de 2026 - Atual
+- 📍 **Localidade:** Recife e Região
+- 📝 **Atividades:** Documentar ações de correções de bugs e conexões com os sistemas de logística e rastreamento dos clientes, criação de agentes de IA utilizando as melhores práticas do mercado de TI e atualizar as bases de atendimento da equipe.  
+
 ### 🏢 Stefanini Brasil
 - 🔧 **Cargo:** Técnico de Suporte em TI (Tempo integral)
-- 📅 **Período:** Janeiro de 2018 - Julho 2026
+- 📅 **Período:** Janeiro de 2018 - Julho de 2026
 - 📍 **Localidade:** Recife e Região
 - 📝 **Atividades:** Verificar rotinas de jornal e servidores, prestar suporte aos computadores dos usuários e monitorar conexões de rede do prédio.
 
