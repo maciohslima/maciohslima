@@ -81,7 +81,7 @@ Ao longo da minha jornada, desenvolvi uma forte competência multifuncional que 
 
 ### 🏢 Stefanini Brasil
 - 🔧 **Cargo:** Técnico de Suporte em TI (Tempo integral)
-- 📅 **Período:** Janeiro de 2018 - Atual
+- 📅 **Período:** Janeiro de 2018 - Julho 2026
 - 📍 **Localidade:** Recife e Região
 - 📝 **Atividades:** Verificar rotinas de jornal e servidores, prestar suporte aos computadores dos usuários e monitorar conexões de rede do prédio.
 
